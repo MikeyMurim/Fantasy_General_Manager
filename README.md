@@ -41,5 +41,4 @@
 * **AI Engine:** OpenAI API (Model: `gpt-4o-mini`).
 * **Data Source:** `nba_api` (Python Client).
 
-## 🚀 Getting Started
-*(Add installation instructions here once code is initialized)*
+##  Getting Started
